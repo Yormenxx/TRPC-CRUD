@@ -1,9 +1,9 @@
 # TRPC crud
-
+## Tecnologías utilizadas
 * typescript
 * nodejs
 * zod
 
 
-crud que permite usar la tecnologia trpc## Tecnologías utilizadas
+crud que permite usar la tecnologia trpc
 
